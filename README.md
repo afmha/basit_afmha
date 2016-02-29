@@ -7,6 +7,6 @@ Yeni başlayanlar için hazırlanmış **PHP** dilinde işlemleri basit bir şek
 - [x] Çıkarma
 - [x] Çarpma
 - [x] Bölme
-- [x] Üst alt
+- [x] Üst alma
 
 İlerleyen zamanalarda yeni sistemler eklenecektir.
