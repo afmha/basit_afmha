@@ -3,10 +3,11 @@ Yeni başlayanlar için hazırlanmış **PHP** dilinde işlemleri basit bir şek
 
 Şuanda basit_afmha yazılımımızda yapabilecekleriniz:
 
-- [x] Toplama :blush:
-- [x] Çıkarma :blush:
-- [x] Çarpma :blush:
-- [x] Bölme :blush:
-- [x] Üst alma :blush:
+- [x] Toplama :blush:  (0.01)
+- [x] Çıkarma :blush:  (0.01)
+- [x] Çarpma :blush:  (0.01)
+- [x] Bölme :blush:  (0.01)
+- [x] Üst alma :blush:  (0.01)
+- [x] Dosya dahil etme :blush: (0.02)
 
 İlerleyen zamanalarda :confused: yeni sistemler eklenecektir.
